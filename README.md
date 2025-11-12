@@ -2,8 +2,7 @@
 
 ![Profile Banner or GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) <!-- Optional: Replace with a banner image or fun GIF URL -->
 
-**Aspiring [Your Role/Interest, e.g., Software Developer | Data Science Enthusiast | Student]**  
-[Your City/Country, e.g., Bangalore, India] 📍  
+**Aspiring [Software Developer]**    
 
 ### 🌟 About Me
 - 🔭 I'm currently working on [your current projects or learning goals].
