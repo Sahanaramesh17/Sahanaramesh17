@@ -20,12 +20,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanaramesh17&layout=compact&theme=radical&hide_border=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahanaramesh17&theme=radical&hide_border=true)
 
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 📌 Pinned Repositories
-(Your pinned repos will appear automatically on your profile, or add manual links here)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-r-632486284/)
