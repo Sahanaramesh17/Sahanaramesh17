@@ -5,9 +5,9 @@
 **Aspiring Software Developer**    
 
 ### 🌟 About Me
-- 🔭 I'm currently working on [React project].
-- 🌱 Learning [technologies/skills, e.g.,React]
-- 💬 Ask me about  [Java, web development].
+- 🔭 I'm currently working on React project.
+- 🌱 Currently learning Advance React, Java.
+- 💬 Ask me about Java, web development.
 
 ### 🛠️ Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
