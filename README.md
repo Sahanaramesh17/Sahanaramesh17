@@ -2,10 +2,10 @@
 
 ![Profile Banner or GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) <!-- Optional: Replace with a banner image or fun GIF URL -->
 
-**Aspiring [Software Developer]**    
+**Aspiring Software Developer**    
 
 ### 🌟 About Me
-- 🔭 I'm currently working on [your current projects or learning goals].
+- 🔭 I'm currently working on [React project].
 - 🌱 Learning [technologies/skills, e.g.,React]
 - 💬 Ask me about  [Java, web development].
 
